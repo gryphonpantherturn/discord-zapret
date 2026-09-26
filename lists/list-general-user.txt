@@ -1,0 +1,3 @@
+# Never leave this file empty
+domain.example.abc
+# gryphonpantherturn/discord-zapret e47007c92a08
